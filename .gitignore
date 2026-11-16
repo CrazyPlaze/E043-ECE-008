@@ -1,0 +1,27 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tmp/
+
+# Local virtual environment
+.venv/
+venv/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+*.zip
+
+# Superseded Word copies; the canonical repository versions are Markdown/PDF.
+DECISION_LOG.md.docx
+README.md.docx
+sample_commands.txt.docx
+E043-ECE-008 – Design Document & Business Rule Register.docx
